@@ -1,0 +1,30 @@
+# System (Python 3.10.6)
+wheel==0.40.0
+python-dotenv==1.0.0
+
+# PyTorch.
+--find-links https://download.pytorch.org/whl/cu121/torch_stable.html
+torch==2.1.2+cu121
+torchvision==0.16.2+cu121
+torchaudio==2.1.2+cu121
+
+# Training.
+wandb==0.16.3
+transformers==4.36.2
+sentence-transformers==2.2.2
+torch-optimizer==0.3.0
+colbert-ai @ git+https://github.com/stanford-futuredata/ColBERT.git@main
+
+# Data.
+pandas==2.1.4
+datasets==2.15.0
+ir-datasets==0.5.6
+spacy==3.7.2
+fr_core_news_md @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.7.0/fr_core_news_md-3.7.0-py3-none-any.whl
+
+# Plots.
+seaborn==0.13.0
+
+# Other.
+langdetect==1.0.9
+faiss-gpu==1.7.2

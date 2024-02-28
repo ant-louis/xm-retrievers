@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode
+
+# Temporary/backup files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+.$*.drawio*
+*.xlk
+*.bkp
+
+# Data
+*.tsv
+*.pdf
+*.zip
+*.gz
+data/
+notebooks/
+
+# Logging files.
+wandb/
+runs/
+lightning_logs/
+events.out.tfevents.*
+
+# Checkpoints.
+*.pkl
+core.*
+*.ckpt 
+*.pt
+output/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.fls
+*.fdb_latexmk
