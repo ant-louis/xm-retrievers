@@ -3,8 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![arXiv](https://img.shields.io/badge/arXiv-2402.15059-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2402.15059)
-[![Loader: Hugging Face](https://img.shields.io/static/v1.svg?label=🤗%20Models&message=ColBERT-XM&color=FF9900)](https://huggingface.co/datasets/antoinelouis/colbert-xm)
-[![Loader: Hugging Face](https://img.shields.io/static/v1.svg?label=🤗%20Models&message=DPR-XM&color=FF9900)](https://huggingface.co/datasets/antoinelouis/dpr-xm)
+[![Loader: Hugging Face](https://img.shields.io/static/v1.svg?label=🤗%20Models&message=ColBERT-XM&color=FF9900)](https://huggingface.co/antoinelouis/colbert-xm)
+[![Loader: Hugging Face](https://img.shields.io/static/v1.svg?label=🤗%20Models&message=DPR-XM&color=FF9900)](https://huggingface.co/antoinelouis/dpr-xm)
 
 # Zero-Shot Multilingual Information Retrieval with Modular Retrievers
 
