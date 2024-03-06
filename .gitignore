@@ -29,8 +29,7 @@ venv/
 *.pdf
 *.zip
 *.gz
-data/
-notebooks/
+./data/
 
 # Logging files.
 wandb/
@@ -43,12 +42,7 @@ events.out.tfevents.*
 core.*
 *.ckpt 
 *.pt
-output/
+./output/
 
-# LaTeX
-*.aux
-*.bbl
-*.blg
-*.log
-*.fls
-*.fdb_latexmk
+# Other.
+./notebooks/
